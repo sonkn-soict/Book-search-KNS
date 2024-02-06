@@ -13,7 +13,7 @@ Fine-tune giúp tinh chỉnh mô hình sát với tập dữ liệu đưa
 - Dữ liệu trả về front-end: bao gồm link và tên truyện lưu trong file: output.csv
 - **Công nghệ sử dụng:** FastAPI của python.
 #### Note: Do tập dữ liệu lớn nên được lưu trong đường link: https://husteduvn-my.sharepoint.com/:f:/g/personal/son_kn204602_sis_hust_edu_vn/EkgUBN3lsv1KoIz7H9cHY5wBWNvGrbGdM8t3nmgxpqkJ7A?e=QQHZWS  
-- Kiểm tra trên local: truy vấn:" tôi nhớ cô gái ấy", top: 10 =>
+Kiểm tra trên local: truy vấn:" tôi nhớ cô gái ấy", top: 10 =>
 ![image](https://github.com/sonkn-soict/Book-search-KNS/assets/104115279/270f1c45-f96b-4b9d-813c-930a3b7db4e4)
 
 Kết quả
